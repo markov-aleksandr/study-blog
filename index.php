@@ -1,2 +1,2 @@
 <?php
-phpinfo();
+require('./templates/header.php');
